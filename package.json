@@ -1,0 +1,14 @@
+{
+  "name": "websocket_example",
+  "version": "1.0.0",
+  "description": "Simple WebSocket server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrique Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.0.0"
+  }
+}
